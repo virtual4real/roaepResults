@@ -1,0 +1,548 @@
+[
+    {
+        "id": 11,
+        "county_id": 1,
+        "name": "ALBAC",
+        "code": null,
+        "siruta": "2130"
+    },
+    {
+        "id": 12,
+        "county_id": 1,
+        "name": "ALMA\u015eU MARE",
+        "code": null,
+        "siruta": "2309"
+    },
+    {
+        "id": 13,
+        "county_id": 1,
+        "name": "ARIE\u015eENI",
+        "code": null,
+        "siruta": "2381"
+    },
+    {
+        "id": 14,
+        "county_id": 1,
+        "name": "AVRAM IANCU",
+        "code": null,
+        "siruta": "2577"
+    },
+    {
+        "id": 16,
+        "county_id": 1,
+        "name": "BERGHIN",
+        "code": null,
+        "siruta": "2988"
+    },
+    {
+        "id": 17,
+        "county_id": 1,
+        "name": "BISTRA",
+        "code": null,
+        "siruta": "3039"
+    },
+    {
+        "id": 18,
+        "county_id": 1,
+        "name": "BLANDIANA",
+        "code": null,
+        "siruta": "3397"
+    },
+    {
+        "id": 78,
+        "county_id": 1,
+        "name": "BUCERDEA GR\u00c2NOAS\u0102",
+        "code": null,
+        "siruta": "9026"
+    },
+    {
+        "id": 19,
+        "county_id": 1,
+        "name": "BUCIUM",
+        "code": null,
+        "siruta": "3459"
+    },
+    {
+        "id": 25,
+        "county_id": 1,
+        "name": "C\u00c2LNIC",
+        "code": null,
+        "siruta": "4106"
+    },
+    {
+        "id": 20,
+        "county_id": 1,
+        "name": "CENADE",
+        "code": null,
+        "siruta": "3761"
+    },
+    {
+        "id": 21,
+        "county_id": 1,
+        "name": "CERG\u0102U",
+        "code": null,
+        "siruta": "3805"
+    },
+    {
+        "id": 22,
+        "county_id": 1,
+        "name": "CERU-B\u0102C\u0102IN\u0162I",
+        "code": null,
+        "siruta": "3841"
+    },
+    {
+        "id": 23,
+        "county_id": 1,
+        "name": "CETATEA DE BALT\u0102",
+        "code": null,
+        "siruta": "3958"
+    },
+    {
+        "id": 2,
+        "county_id": 1,
+        "name": "CIUGUD",
+        "code": null,
+        "siruta": "1071"
+    },
+    {
+        "id": 24,
+        "county_id": 1,
+        "name": "CIURULEASA",
+        "code": null,
+        "siruta": "4008"
+    },
+    {
+        "id": 27,
+        "county_id": 1,
+        "name": "CR\u0102CIUNELU DE JOS",
+        "code": null,
+        "siruta": "4188"
+    },
+    {
+        "id": 26,
+        "county_id": 1,
+        "name": "CRIC\u0102U",
+        "code": null,
+        "siruta": "4142"
+    },
+    {
+        "id": 77,
+        "county_id": 1,
+        "name": "CUT",
+        "code": null,
+        "siruta": "9019"
+    },
+    {
+        "id": 28,
+        "county_id": 1,
+        "name": "DAIA ROM\u00c2N\u0102",
+        "code": null,
+        "siruta": "4240"
+    },
+    {
+        "id": 29,
+        "county_id": 1,
+        "name": "DO\u015eTAT",
+        "code": null,
+        "siruta": "4268"
+    },
+    {
+        "id": 30,
+        "county_id": 1,
+        "name": "F\u0102R\u0102U",
+        "code": null,
+        "siruta": "4302"
+    },
+    {
+        "id": 31,
+        "county_id": 1,
+        "name": "GALDA DE JOS",
+        "code": null,
+        "siruta": "4366"
+    },
+    {
+        "id": 32,
+        "county_id": 1,
+        "name": "G\u00c2RBOVA",
+        "code": null,
+        "siruta": "4482"
+    },
+    {
+        "id": 33,
+        "county_id": 1,
+        "name": "G\u00c2RDA DE SUS",
+        "code": null,
+        "siruta": "4525"
+    },
+    {
+        "id": 34,
+        "county_id": 1,
+        "name": "HOP\u00c2RTA",
+        "code": null,
+        "siruta": "4703"
+    },
+    {
+        "id": 35,
+        "county_id": 1,
+        "name": "HOREA",
+        "code": null,
+        "siruta": "4767"
+    },
+    {
+        "id": 36,
+        "county_id": 1,
+        "name": "IGHIU",
+        "code": null,
+        "siruta": "4927"
+    },
+    {
+        "id": 37,
+        "county_id": 1,
+        "name": "\u00ceNTREGALDE",
+        "code": null,
+        "siruta": "4981"
+    },
+    {
+        "id": 38,
+        "county_id": 1,
+        "name": "JIDVEI",
+        "code": null,
+        "siruta": "5103"
+    },
+    {
+        "id": 39,
+        "county_id": 1,
+        "name": "LIVEZILE",
+        "code": null,
+        "siruta": "5167"
+    },
+    {
+        "id": 40,
+        "county_id": 1,
+        "name": "LOPADEA NOU\u0102",
+        "code": null,
+        "siruta": "5210"
+    },
+    {
+        "id": 41,
+        "county_id": 1,
+        "name": "LUNCA MURE\u015eULUI",
+        "code": null,
+        "siruta": "5309"
+    },
+    {
+        "id": 42,
+        "county_id": 1,
+        "name": "LUP\u015eA",
+        "code": null,
+        "siruta": "5336"
+    },
+    {
+        "id": 43,
+        "county_id": 1,
+        "name": "METE\u015e",
+        "code": null,
+        "siruta": "5577"
+    },
+    {
+        "id": 44,
+        "county_id": 1,
+        "name": "MIHAL\u0162",
+        "code": null,
+        "siruta": "5700"
+    },
+    {
+        "id": 45,
+        "county_id": 1,
+        "name": "MIR\u0102SL\u0102U",
+        "code": null,
+        "siruta": "5755"
+    },
+    {
+        "id": 46,
+        "county_id": 1,
+        "name": "MOGO\u015e",
+        "code": null,
+        "siruta": "5826"
+    },
+    {
+        "id": 4,
+        "county_id": 1,
+        "name": "MUNICIPIUL AIUD",
+        "code": null,
+        "siruta": "1213"
+    },
+    {
+        "id": 1,
+        "county_id": 1,
+        "name": "MUNICIPIUL ALBA IULIA",
+        "code": null,
+        "siruta": "1017"
+    },
+    {
+        "id": 5,
+        "county_id": 1,
+        "name": "MUNICIPIUL BLAJ",
+        "code": null,
+        "siruta": "1348"
+    },
+    {
+        "id": 9,
+        "county_id": 1,
+        "name": "MUNICIPIUL SEBE\u015e",
+        "code": null,
+        "siruta": "1874"
+    },
+    {
+        "id": 47,
+        "county_id": 1,
+        "name": "NO\u015eLAC",
+        "code": null,
+        "siruta": "6048"
+    },
+    {
+        "id": 48,
+        "county_id": 1,
+        "name": "OCOLI\u015e",
+        "code": null,
+        "siruta": "6119"
+    },
+    {
+        "id": 49,
+        "county_id": 1,
+        "name": "OHABA",
+        "code": null,
+        "siruta": "6164"
+    },
+    {
+        "id": 3,
+        "county_id": 1,
+        "name": "ORA\u015e ABRUD",
+        "code": null,
+        "siruta": "1151"
+    },
+    {
+        "id": 15,
+        "county_id": 1,
+        "name": "ORA\u015e BAIA DE ARIE\u015e",
+        "code": null,
+        "siruta": "2915"
+    },
+    {
+        "id": 6,
+        "county_id": 1,
+        "name": "ORA\u015e C\u00c2MPENI",
+        "code": null,
+        "siruta": "1455"
+    },
+    {
+        "id": 7,
+        "county_id": 1,
+        "name": "ORA\u015e CUGIR",
+        "code": null,
+        "siruta": "1696"
+    },
+    {
+        "id": 8,
+        "county_id": 1,
+        "name": "ORA\u015e OCNA MURE\u015e",
+        "code": null,
+        "siruta": "1794"
+    },
+    {
+        "id": 71,
+        "county_id": 1,
+        "name": "ORA\u015e TEIU\u015e",
+        "code": null,
+        "siruta": "8096"
+    },
+    {
+        "id": 10,
+        "county_id": 1,
+        "name": "ORA\u015e ZLATNA",
+        "code": null,
+        "siruta": "1936"
+    },
+    {
+        "id": 50,
+        "county_id": 1,
+        "name": "PIANU",
+        "code": null,
+        "siruta": "6217"
+    },
+    {
+        "id": 51,
+        "county_id": 1,
+        "name": "POIANA VADULUI",
+        "code": null,
+        "siruta": "6271"
+    },
+    {
+        "id": 52,
+        "county_id": 1,
+        "name": "PONOR",
+        "code": null,
+        "siruta": "6397"
+    },
+    {
+        "id": 53,
+        "county_id": 1,
+        "name": "PO\u015eAGA",
+        "code": null,
+        "siruta": "6468"
+    },
+    {
+        "id": 54,
+        "county_id": 1,
+        "name": "R\u0102DE\u015eTI",
+        "code": null,
+        "siruta": "6547"
+    },
+    {
+        "id": 56,
+        "county_id": 1,
+        "name": "R\u00c2ME\u0162",
+        "code": null,
+        "siruta": "6627"
+    },
+    {
+        "id": 55,
+        "county_id": 1,
+        "name": "RIMETEA",
+        "code": null,
+        "siruta": "6592"
+    },
+    {
+        "id": 58,
+        "county_id": 1,
+        "name": "RO\u015eIA DE SECA\u015e",
+        "code": null,
+        "siruta": "6930"
+    },
+    {
+        "id": 57,
+        "county_id": 1,
+        "name": "RO\u015eIA MONTAN\u0102",
+        "code": null,
+        "siruta": "6761"
+    },
+    {
+        "id": 59,
+        "county_id": 1,
+        "name": "S\u0102LCIUA",
+        "code": null,
+        "siruta": "6976"
+    },
+    {
+        "id": 60,
+        "county_id": 1,
+        "name": "S\u0102LI\u015eTEA",
+        "code": null,
+        "siruta": "7044"
+    },
+    {
+        "id": 63,
+        "county_id": 1,
+        "name": "S\u00c2NCEL",
+        "code": null,
+        "siruta": "7348"
+    },
+    {
+        "id": 64,
+        "county_id": 1,
+        "name": "S\u00c2NTIMBRU",
+        "code": null,
+        "siruta": "7384"
+    },
+    {
+        "id": 61,
+        "county_id": 1,
+        "name": "S\u0102SCIORI",
+        "code": null,
+        "siruta": "7099"
+    },
+    {
+        "id": 62,
+        "county_id": 1,
+        "name": "SC\u0102RI\u015eOARA",
+        "code": null,
+        "siruta": "7197"
+    },
+    {
+        "id": 67,
+        "county_id": 1,
+        "name": "\u015eIBOT",
+        "code": null,
+        "siruta": "7810"
+    },
+    {
+        "id": 65,
+        "county_id": 1,
+        "name": "SOHODOL",
+        "code": null,
+        "siruta": "7446"
+    },
+    {
+        "id": 68,
+        "county_id": 1,
+        "name": "\u015eONA",
+        "code": null,
+        "siruta": "7865"
+    },
+    {
+        "id": 69,
+        "county_id": 1,
+        "name": "\u015ePRING",
+        "code": null,
+        "siruta": "7945"
+    },
+    {
+        "id": 66,
+        "county_id": 1,
+        "name": "STREM\u0162",
+        "code": null,
+        "siruta": "7767"
+    },
+    {
+        "id": 70,
+        "county_id": 1,
+        "name": "\u015eUGAG",
+        "code": null,
+        "siruta": "8014"
+    },
+    {
+        "id": 72,
+        "county_id": 1,
+        "name": "UNIREA",
+        "code": null,
+        "siruta": "8158"
+    },
+    {
+        "id": 73,
+        "county_id": 1,
+        "name": "VADU MO\u0162ILOR",
+        "code": null,
+        "siruta": "8229"
+    },
+    {
+        "id": 74,
+        "county_id": 1,
+        "name": "VALEA LUNG\u0102",
+        "code": null,
+        "siruta": "8354"
+    },
+    {
+        "id": 75,
+        "county_id": 1,
+        "name": "VIDRA",
+        "code": null,
+        "siruta": "8425"
+    },
+    {
+        "id": 76,
+        "county_id": 1,
+        "name": "VIN\u0162U DE JOS",
+        "code": null,
+        "siruta": "8826"
+    }
+]
